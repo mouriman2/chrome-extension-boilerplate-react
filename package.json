@@ -1,11 +1,11 @@
 {
-  "name": "chrome-extension-boilerplate-react",
-  "version": "4.3.5",
-  "description": "A chrome extension boilerplate built with React 17, Webpack 5, and Webpack Dev Server 4",
+  "name": "ff14-loadstone-daily-deleter",
+  "version": "0.0.1",
+  "description": "あまりにうざいロドストの日記を消すための拡張機能",
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "https://github.com/lxieyang/chrome-extension-boilerplate-react.git"
+    "url": "https://github.com/mouriman2/chrome-extension-boilerplate-react.git"
   },
   "scripts": {
     "build": "node utils/build.js",
